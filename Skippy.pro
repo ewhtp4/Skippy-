@@ -18,8 +18,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 include("tcp/tcp.pri")
 include("http/http.pri")
 include("pageView/pageView.pri")
-include("scanner/scanner.pri")
-include("siteGenerator/sitegenerator.pri")
 
 SOURCES += \
     main.cpp \
