@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/recources">
+        <file>data/skippy.png</file>
+        <file>data/skippyBig.png</file>
+        <file>data/skippyUI.png</file>
+    </qresource>
+</RCC>
